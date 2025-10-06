@@ -16,8 +16,6 @@ local Theorist = require(path.to.Theorist)
 
 3. Explore the commands, or look the in commmands section below.
 ---
-## Installing
----
 ## Commands
 ---
 ## Contributors
