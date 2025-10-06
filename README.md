@@ -1,2 +1,5 @@
 # Theorist.luau
-A expanded Roblox math library (WIP)
+## Getting Started
+## Installing
+## Commands
+## Contributors
